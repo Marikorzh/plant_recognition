@@ -1,0 +1,15 @@
+0 tomato healthy
+1 tomato spot
+2 tomato leaf mod
+3 tomato septoria
+4 tomato spider
+5 tomato late blight
+6 tomato early blight
+7 tomato mosaic
+8 tomato yellow leaf
+9 pepper bell spot
+10 pepper bell healthy
+11 potato early blight
+12 potato late blight
+13 potato healthy
+14 tomato target
